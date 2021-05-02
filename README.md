@@ -18,7 +18,7 @@
 - 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
 - 👯 And Many More...
 
-## Recent Projects
+## Skills
 ### - duatone 🎵 Music Therapy
 - 💬 Ask me about anything and everything!
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5MjQzODMxLDExODk0OTA4OTEsNTM3Mz
-EzODMxXX0=
+eyJoaXN0b3J5IjpbMjAwOTc0NDMwNCwxMTg5NDkwODkxLDUzNz
+MxMzgzMV19
 -->
