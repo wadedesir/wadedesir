@@ -5,9 +5,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-@wadedesir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/wadedesir) [![Linkedin Badge](https://img.shields.io/badge/-wadedesir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/wadedesir) [![Gmail Badge](https://img.shields.io/badge/-wadedesir19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:wadedesir19@gmail.com)
 ---
 
-## Hi there 👋,
+## Hello friend👋,
 
-### I'm Saksham Taneja, Student at 👨‍💻 JECRC University Pursuing BCA. I am a tech and management enthusiast, Would love to be a cloud evangelist and see myself as a Product / Program Manager in my later career.
+### I'm a software engineering currently working at resilient coders developing Full-Stack web applications. Aside from web development I design PCBs, and work on cool 
 -------
   
 ## 🧐 About
@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQ2NzY5NDhdfQ==
+eyJoaXN0b3J5IjpbLTc4NTg0MzYyMF19
 -->
