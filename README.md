@@ -17,7 +17,7 @@
 - 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
 - 👯 And Many More...
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Recent Projects
 
 - 💬 Ask me about anything and everything!
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
@@ -42,5 +42,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTQ5MDg5MSw1MzczMTM4MzFdfQ==
+eyJoaXN0b3J5IjpbOTc0ODMxNCwxMTg5NDkwODkxLDUzNzMxMz
+gzMV19
 -->
