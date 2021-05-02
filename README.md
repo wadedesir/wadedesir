@@ -2,8 +2,7 @@
 
 # Wade Desir
 
-[![Twitter Badge](https://img.shields.io/badge/-@wadedesir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/wadedesir) [![Linkedin Badge](https://img.shields.io/badge/-wadedesir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/wadedesir) [![GitHub followers](https://img.shields.io/github/followers/sakshamtaneja21?label=Follow&style=social)](https://github.com/sakshamtaneja/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@wadedesir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/wadedesir) [![Linkedin Badge](https://img.shields.io/badge/-wadedesir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/wadedesir) [![Gmail Badge](https://img.shields.io/badge/-wadedesir19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:wadedesir19@gmail.com)
 ---
 
 ## Hi there 👋,
@@ -44,5 +43,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2NjIyOTYyXX0=
+eyJoaXN0b3J5IjpbLTE0MTQ2NzY5NDhdfQ==
 -->
