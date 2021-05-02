@@ -13,18 +13,11 @@
 ## 🧐 About
 
 - 😄 I love meeting new people! Please reach out to me to collaborate or just chat about all things engineering.
-- 📫 Best way to reach me: message me on [LinkedIn](https://wa.me/919829599750)
+- 📫 Best way to reach me: message me on [LinkedIn](https://www.linkedin.com/in/wadedesir/)
 - 🔭 I am currently open to new opportunities in engineering. If you are hiring or know someone who is don't hesitate to have them reach out!
 - 🗺️ I reside near Boston, MA USA. The food here cannot be beat 😋
-- 🌱 I’m currently improving my skills in web development. Check out my portfolio
+- 🌱 I’m currently improving my skills in web development. Check out my [Portfolio](https://desir.dev) to get an overview of my skillset.
 - 👯 And Many More...
-
-## Recent Projects
-- Full-
-- 
-
-- ⚡ Fun fact: I love meeting new people and eating food!
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
 
 
 ![Wade Desir's github stats](https://github-readme-stats.vercel.app/api?username=wadedesir&show_icons=true)
@@ -42,8 +35,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Recent Projects
+- Full-
+- 
+
+- ⚡ Fun fact: I love meeting new people and eating food!
+- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2MDE2NjUyLDEyODYxOTQzODQsMTE4OT
-Q5MDg5MSw1MzczMTM4MzFdfQ==
+eyJoaXN0b3J5IjpbMTMwNjI5NjI1NSwxMjg2MTk0Mzg0LDExOD
+k0OTA4OTEsNTM3MzEzODMxXX0=
 -->
