@@ -19,7 +19,7 @@
 - 👯 And Many More...
 
 ## Recent Projects
-
+### - duatone 🎵 Music Therapy
 - 💬 Ask me about anything and everything!
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
 - ⚡ Fun fact: I love meeting new people and eating food!
@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzU3OTYyOCwxMTg5NDkwODkxLDUzNz
-MxMzgzMV19
+eyJoaXN0b3J5IjpbMzY5MjQzODMxLDExODk0OTA4OTEsNTM3Mz
+EzODMxXX0=
 -->
