@@ -13,7 +13,7 @@
 ## 🧐 About
 
 - 😄 I love meeting new people! Please reach out to me to collaborate or just chat about all things engineering.
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
+- 🔭 I am currently open to new opportunities in engineering. If you are hiring or know someone who is don't hesitate to have them reach out!
 - 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
 - 👯 And Many More...
 
@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0ODMxNCwxMTg5NDkwODkxLDUzNzMxMz
-gzMV19
+eyJoaXN0b3J5IjpbLTEyNDE2ODM2NDUsMTE4OTQ5MDg5MSw1Mz
+czMTM4MzFdfQ==
 -->
