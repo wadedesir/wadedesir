@@ -14,6 +14,7 @@
 
 - 😄 I love meeting new people! Please reach out to me to collaborate or just chat about all things engineering.
 - 🔭 I am currently open to new opportunities in engineering. If you are hiring or know someone who is don't hesitate to have them reach out!
+- 🗺️ I reside near Boston, MA USA. The food here cannot be beat 😋
 - 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
 - 👯 And Many More...
 
@@ -42,6 +43,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE2ODM2NDUsMTE4OTQ5MDg5MSw1Mz
-czMTM4MzFdfQ==
+eyJoaXN0b3J5IjpbMjEyMzU3OTYyOCwxMTg5NDkwODkxLDUzNz
+MxMzgzMV19
 -->
