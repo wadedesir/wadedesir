@@ -13,6 +13,7 @@
 ## 🧐 About
 
 - 😄 I love meeting new people! Please reach out to me to collaborate or just chat about all things engineering.
+- 📫 Best way to reach me: message me on [LinkedIn](https://wa.me/919829599750)
 - 🔭 I am currently open to new opportunities in engineering. If you are hiring or know someone who is don't hesitate to have them reach out!
 - 🗺️ I reside near Boston, MA USA. The food here cannot be beat 😋
 - 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
@@ -21,7 +22,7 @@
 ## Recent Projects
 - Full-
 - 💬 Ask me about anything and everything!
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
+
 - ⚡ Fun fact: I love meeting new people and eating food!
 - 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
 
@@ -43,6 +44,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3NTM4NzUxLDExODk0OTA4OTEsNTM3Mz
-EzODMxXX0=
+eyJoaXN0b3J5IjpbMTI4NjE5NDM4NCwxMTg5NDkwODkxLDUzNz
+MxMzgzMV19
 -->
