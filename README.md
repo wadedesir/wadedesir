@@ -7,7 +7,7 @@
 
 ## Hello friend👋,
 
-### I'm a software engineering currently working at resilient coders developing Full-Stack web applications. Aside from web development I design PCBs, and build 
+### I'm a software engineering currently working at resilient coders developing Full-Stack web applications. Aside from web development I design PCBs, and work on custom  
 -------
   
 ## 🧐 About
@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3MzEzODMxXX0=
+eyJoaXN0b3J5IjpbLTIxMDY1NjkwNCw1MzczMTM4MzFdfQ==
 -->
