@@ -7,7 +7,7 @@
 
 ## Hello friend👋,
 
-### I'm a software engineering currently developing Full-Stack web applications at resilient coders. Aside from web development I design PCBs, and work on custom projects mainly involving microcontrollers.  
+### I'm a software engineering currently developing Full-Stack web applications as a Freelance Developer. Aside from web development I design PCBs, and work on custom projects mainly involving microcontrollers.  
 -------
   
 ## 🧐 About
